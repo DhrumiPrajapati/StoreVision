@@ -1,6 +1,6 @@
  # StoreVision: Data-Driven Sales & Forecasting
 
- Welcome to **SuperStore Sales Insights**, a Power BI dashboard designed to analyze and forecast sales performance. This project delivers a clear and structured view of sales trends, category performance, and forecasting, highlighting insights that support evidence-based business decisions.
+ Welcome to **StoreVision**, a Power BI dashboard designed to analyze and forecast sales performance. This project delivers a clear and structured view of sales trends, category performance, and forecasting, highlighting insights that support evidence-based business decisions.
 
 ## 📈 Project Overview
 
