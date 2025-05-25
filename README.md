@@ -107,6 +107,6 @@ This project offers valuable sales insights and lays the foundation for future g
 ## 🚀 How to Use
 1. **Clone this repository**.
 2. Open `SuperSale_Dashboard.pbix` in **Power BI Desktop**.
-3. Load the base dataset if necessary.
+3. Load the base dataset `SuperStore_Sales_Dataset.csv`.
 4. Perform data cleaning and transformation steps as needed.
 5. Explore the dashboard using filters and slicers for detailed analysis.
